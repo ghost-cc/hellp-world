@@ -1,2 +1,1 @@
-# hellp-world
-just another repository
+print("hello world")
